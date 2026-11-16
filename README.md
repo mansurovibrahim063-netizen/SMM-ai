@@ -11,5 +11,5 @@ Sahifa Google Gemini orqali ishlaydi. Birinchi marta ochganda sozlamalarga Gemin
 ## Internetga chiqarish (GitHub Pages)
 
 1. Repozitoriyda **Settings → Pages** bo'limini oching.
-2. **Branch** maydonida `main` ni tanlang, papka `/ (root)` bo'lsin, keyin **Save** tugmasini bosing.
+2. **Branch** maydonida `master` ni tanlang, papka `/ (root)` bo'lsin, keyin **Save** tugmasini bosing.
 3. Bir-ikki daqiqadan keyin sahifa `https://mansurovibrahim063-netizen.github.io/SMM-ai/` manzilida ochiladi.
